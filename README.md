@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/27f4e4e6-77b3-4298-87aa-6abb6e368cf6)
+![image](https://github.com/user-attachments/assets/4ddc93b3-c4aa-46e1-8ac7-cce648dcbffa)
+
 
 
 # Bitirme_Projesi
