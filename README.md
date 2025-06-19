@@ -1,7 +1,5 @@
 ![image](https://github.com/user-attachments/assets/4ddc93b3-c4aa-46e1-8ac7-cce648dcbffa)
 
-
-
 # Bitirme_Projesi
 ## Microsoft Summer Internship 2024 AI Project Devamı 1
 
