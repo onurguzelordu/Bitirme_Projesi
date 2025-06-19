@@ -9,9 +9,12 @@ Bu projede "Python'da Panel Veri Analizi " Üzerinde uğraşılmıştır.
 
 Proje süresince, bana desteklerini esirgemeyen projemin eş danışmanı olan Sayın Coşkun Kutluay'a ve proje danışmanım Sena Kaçar'a teşekkürlerimi sunuyorum.
 
-Aşağıdaki raporlarda proje süreçlerini, katedilen ilerlemeleri ve nihai olarak neler elde edildiğine dair dokümanlara erişebilirsiniz.
+Aşağıdaki raporlarda projenin tanım ve kapsamlarını, süreçlerini, katedilen ilerlemeleri ve nihai olarak neler elde edildiğine dair dokümanlara erişebilirsiniz.
 
 Sağlıklı günler dilerim...
+
+
+
 
 Dokümanlar:
 
