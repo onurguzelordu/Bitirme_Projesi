@@ -24,5 +24,7 @@ Dokümanlar:
 [proje_ılerleme_raporu.docx]
 (https://github.com/user-attachments/files/20826016/proje_ilerleme_raporu.docx)
 
+[Bitirme_Sonuc_Raporu.docx]
+(https://github.com/user-attachments/files/20826141/Bitirme_Sonuc_Raporu.docx)
 
 
