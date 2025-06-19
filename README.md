@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/1832b46a-5223-4c01-b02e-95abc63dba07)
+![image](https://github.com/user-attachments/assets/27f4e4e6-77b3-4298-87aa-6abb6e368cf6)
+
 
 
 
@@ -26,7 +27,7 @@
 
 
 # Bitirme_Projesi
-Microsoft Summer Internship 2024 AI Project Devamı 1
+## Microsoft Summer Internship 2024 AI Project Devamı 1
 
 Bu proje AI_Prediction reposundaki projenin devamıdır. 
 
