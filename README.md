@@ -4,28 +4,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Bitirme_Projesi
 ## Microsoft Summer Internship 2024 AI Project Devamı 1
 
@@ -33,7 +11,7 @@ Bu proje AI_Prediction reposundaki projenin devamıdır.
 
 Bu projede "Python'da Panel Veri Analizi " Üzerinde uğraşılmıştır.
 
-Proje süresince Projemin eş danışmanı olan Sayın Coşkun Kutluay'a ve Projedeki danışmanım Sena Kaçar'a teşekkürlerimi sunuyorum.
+Proje süresince, bana desteklerini esirgemeyen projemin eş danışmanı olan Sayın Coşkun Kutluay'a ve proje danışmanım Sena Kaçar'a teşekkürlerimi sunuyorum.
 
 Aşağıdaki raporlarda proje süreçlerini, katedilen ilerlemeleri ve nihai olarak neler elde edildiğine dair dokümanlara erişebilirsiniz.
 
